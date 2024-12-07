@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(215 215 215);
+    /* overflow: hidden; */
+}
+
+.container{
+  background-color: #ffffff;
+  margin: 1.9vh 3.8vw;
+  padding: 2.9vh 0;
+}
+
+h1{
+    text-align: center;
+ 
+}
+
+.common{
+    margin-left: 2vw;
+    margin-bottom: 15px
+}
+
+.reset{
+    background-color: #33da3c;
+    color: white;
+    width: 6.8vw;
+    height: 7.5vh;
+    margin-left: 13vw;
+}
+
+.submit{
+    background-color: #33da3c;
+    color: white;
+    width: 6.8vw;
+    height: 7.5vh;
+}
